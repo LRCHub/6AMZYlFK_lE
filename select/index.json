@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "明日がくるなら original duet version",
+  "base_artist": "JUJU",
+  "createdAt": "2025-12-02T21:57:44.621844Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "明日がくるなら original duet version",
+      "artist": "JUJU",
+      "has_synced": true,
+      "path": "select/01_明日がくるなら_original_duet_version_JUJU.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "明日がくるなら feat JAYEDoriginal duet version feat JAYED",
+      "artist": "JUJU",
+      "has_synced": true,
+      "path": "select/02_明日がくるなら_feat_JAYEDoriginal_duet_version_feat_JAYED_JUJU.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "明日がくるなら withJAY'ED",
+      "artist": "JUJU",
+      "has_synced": false,
+      "path": "select/03_明日がくるなら_withJAY'ED_JUJU.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "明日がくるなら JUJU with JAY'ED",
+      "artist": "JUJU",
+      "has_synced": false,
+      "path": "select/pl_01_明日がくるなら_JUJU_with_JAY'ED_JUJU.txt"
+    }
+  ]
+}
